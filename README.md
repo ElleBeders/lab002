@@ -15,6 +15,9 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+![photo_2026-03-05_18-58-00](https://github.com/user-attachments/assets/6c7a712c-d936-4685-a604-f5c271bd060c)
+![photo_2026-03-05_18-50-37](https://github.com/user-attachments/assets/150c86df-5a04-4e31-937b-34a56188667f)
+
 
 ## Задача 2
 
@@ -29,4 +32,6 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+![photo_2026-03-05_20-19-57](https://github.com/user-attachments/assets/b256bc52-05ec-40c5-b1c3-c808f3283864)
+![photo_2026-03-05_20-20-01](https://github.com/user-attachments/assets/5bbcd2f5-2f99-409c-8d52-298714ef97c4)
 
